@@ -4,4 +4,4 @@
 
 ### Hello 我是DenusC 👋
 
-一个喜欢有挑战性工作的"社畜"git@github.com:DenusC/DenusC.git
+一个喜欢有挑战性工作的"社畜"https://denusc.github.io
